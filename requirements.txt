@@ -1,0 +1,8 @@
+langchain
+openai==0.28
+tiktoken
+faiss-cpu
+pypdf
+streamlit
+sentence_transformers
+python-dotenv
