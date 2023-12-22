@@ -9,3 +9,8 @@
 * Summarized answer of the chatbot with the relevant documents:
   
 ![image](https://github.com/Mansisarda1999/RAG-Chatbot-for-mutiple-documents-with-Conversational-Memory/assets/60294261/e7755f33-ef5a-4e6d-923e-dda27087f981)
+
+* Conversational Memory
+
+![image](https://github.com/Mansisarda1999/RAG-Chatbot-for-mutiple-documents-with-Conversational-Memory/assets/60294261/765b3c1e-30a1-47be-843d-183eb74c248c)
+
